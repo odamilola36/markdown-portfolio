@@ -1,0 +1,3 @@
+ - *italic*
+ - **bold**
+ - *italic **bold** text*
